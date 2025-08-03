@@ -2,7 +2,7 @@
 
 Hi there! I'm Mahfuz, a passionate and versatile Full-Stack Web & App Developer with hands-on experience in a wide range of modern technologies and frameworks. I specialize in building high-quality, scalable web and mobile applications.
 <br>
-<img width="688" height="1024" alt="Image" src="https://github.com/user-attachments/assets/7d66197c-f34d-4860-afa9-9961e2fb45a3" />
+<img width="681" height="353" alt="Image" src="https://github.com/user-attachments/assets/ff78a3e6-7fad-4e57-beea-e9d7748e4cde" />
 <br>
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://bsky.app/profile/mahfuz-yasin.bsky.social) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mahfuzyasin1997/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/mahfuzyasin21/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@MU. MAHFUZ YASIN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahfuzyasin21@gmail.com) 
