@@ -1,4 +1,5 @@
 # 💫 About Me:
+<img width="688" height="1024" alt="Image" src="https://github.com/user-attachments/assets/7d66197c-f34d-4860-afa9-9961e2fb45a3" />
 Hi there! I'm Mahfuz, a passionate and versatile Full-Stack Web & App Developer with hands-on experience in a wide range of modern technologies and frameworks. I specialize in building high-quality, scalable web and mobile applications.
 
 
